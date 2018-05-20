@@ -44,7 +44,7 @@ sudo apt-get -y install -t stretch libapache2-mod-php7.0
 
 ## Pin configuration for Raspberry PI 2 b
 
-![Raspberry PI 2 b](https://www.raspberrypi.org/documentation/usage/gpio/images/gpio-numbers-pi2.png "Pin config")
+![Raspberry PI 2 b](gpio-numbers-pi2.png "Pin config")
 
 You need for 4 relays following pins
 -1 5V connect with VCC on relay board
