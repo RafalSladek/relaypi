@@ -3,7 +3,7 @@
     <meta charset="UTF-8" />
     </head>
 
-<bod>
+<body>
 <?php
     if (isset($_POST['ON']))
         { exec("sudo python /home/pi/relaypi/4port/script5.py"); }
